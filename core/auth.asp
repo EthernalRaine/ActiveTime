@@ -31,7 +31,7 @@
 
         <div class="center">
             <div id="left">
-                <img src="../assets/img/Clock-PNG-Transparent.png" width="200" height="200" />
+                <img src="../assets/img/clock.png" width="200" height="200" />
             </div>
     
             <div id="right" class="leftborder rightpad">
@@ -39,7 +39,7 @@
                 <h2 class="inlinetext"><small>Login</small></h2>
 
                 <p>Authentication Required! Please Login to Continue.</p>  
-                <form method="POST" action="./signon.php">
+                <form method="POST" action="../php/signon.php">
                     <table>
                         <tr>
                             <td>Username</td>

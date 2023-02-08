@@ -1,0 +1,301 @@
+{
+    "lessons": 
+    [
+        {
+            "mo": {
+                "name":"KRE",
+                "room":"D17",
+                "teach":"QUI",
+                "mode":"",
+                "state":"double"
+            },
+            "tu" : {
+                "name":"SPG",
+                "room":"GE1",
+                "teach":"GER",
+                "mode":"",
+                "state":"double"
+            },
+            "we": {
+                "name":"AFV",
+                "room":"D17",
+                "teach":"DID",
+                "mode":"",
+                "state":"double"
+            },
+            "th" : {
+                "name":"WBL",
+                "room":"D17",
+                "teach":"DUE",
+                "mode":"",
+                "state":"double"
+            },
+            "fr": {
+                "name":"Mp",
+                "room":"D17",
+                "teach":"RAH",
+                "mode":"(Week B)",
+                "state":"single"
+            }
+        },
+        {
+            "mo": {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "tu" : {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "we": {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "th" : {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "fr": {
+                "name":"DKO",
+                "room":"D17",
+                "teach":"EHN",
+                "mode":"(Week A)",
+                "state":"single"
+            }
+        },
+        {
+            "mo": {
+                "name":"PKG",
+                "room":"D17",
+                "teach":"DUE",
+                "mode":"",
+                "state":"double"
+            },
+            "tu" : {
+                "name":"PH",
+                "room":"CE6",
+                "teach":"TJI",
+                "mode":"",
+                "state":"double"
+            },
+            "we": {
+                "name":"Mp",
+                "room":"D17",
+                "teach":"RAH",
+                "mode":"",
+                "state":"double"
+            },
+            "th" : {
+                "name":"SAW",
+                "room":"D17",
+                "teach":"QUI",
+                "mode":"",
+                "state":"double"
+            },
+            "fr": {
+                "name":"DV",
+                "room":"D17",
+                "teach":"BUJ",
+                "mode":"",
+                "state":"single"
+            }
+        },
+        {
+            "mo": {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "tu" : {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "we": {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "th" : {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "fr": {
+                "name":"BOR",
+                "room":"D11",
+                "teach":"SET",
+                "mode":"",
+                "state":"single"
+            }
+        },
+        {
+            "mo": {
+                "name":"ITS",
+                "room":"D17",
+                "teach":"BIL",
+                "mode":"",
+                "state":"double"
+            },
+            "tu" : {
+                "name":"DKO",
+                "room":"D17",
+                "teach":"EHN",
+                "mode":"",
+                "state":"double"
+            },
+            "we": {
+                "name":"ITS",
+                "room":"D17",
+                "teach":"BIL",
+                "mode":"",
+                "state":"double"
+            },
+            "th" : {
+                "name":"Ep",
+                "room":"D17",
+                "teach":"SET",
+                "mode":"",
+                "state":"double"
+            },
+            "fr": {
+                "name":"PET",
+                "room":"D20",
+                "teach":"JAN",
+                "mode":"",
+                "state":"single"
+            }
+        },
+        {
+            "mo": {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "tu" : {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "we": {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "th" : {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "fr": {
+                "name":"ET",
+                "room":"D18",
+                "teach":"EIC",
+                "mode":"",
+                "state":"single"
+            }
+        },
+        {
+            "mo": {
+                "name":"Ep",
+                "room":"D17",
+                "teach":"SET",
+                "mode":"(Week A)",
+                "state":"double"
+            },
+            "tu" : {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"empty"
+            },
+            "we": {
+                "name":"ITS",
+                "room":"D17",
+                "teach":"BIL",
+                "mode":"(Week B)",
+                "state":"double"
+            },
+            "th" : {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"empty"
+            },
+            "fr": {
+                "name":"SAW",
+                "room":"D17",
+                "teach":"QUI",
+                "mode":"",
+                "state":"double"
+            }
+        },
+        {
+            "mo": {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "tu" : {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"empty"
+            },
+            "we": {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            },
+            "th" : {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"empty"
+            },
+            "fr": {
+                "name":"",
+                "room":"",
+                "teach":"",
+                "mode":"",
+                "state":"noshow"
+            }
+        }
+    ]
+}
