@@ -151,7 +151,6 @@
                                                 <small><% Response.Write(self.item("room")) %></small>
                                                 <small><% if Not self.item("room") = "" then %> | <% end if %></small>
                                                 <small><% Response.Write(self.item("teach")) %></small><br>
-                                                <small><% Response.Write(self.item("mode")) %></small> 
                                             </td>
                                             <% end if %>
                                     <% next %>
