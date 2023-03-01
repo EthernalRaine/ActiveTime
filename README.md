@@ -4,6 +4,8 @@
 * Database powered by MariaDB/MySQL;
 * Extensive use of JSON Objects (JSON library used: aspjson.com);
 
+![](docs/image.png)
+
 ### JSON Options
 ```json
 {
